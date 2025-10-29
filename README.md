@@ -51,10 +51,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wrusie&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%" />
 </p>
 
-<p align="center">
-  <!-- Streak Stats (for consistency) -->
-  <img src="https://streak-stats.demolab.com?user=wrusie&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="550" />
-</p>
 
 <!-- İletişim -->
 <h2 align="center">📬 Get in Touch</h2>
