@@ -82,13 +82,6 @@
 
   <br/>
 
-  <h3>📊 GitHub İstatistiklerim</h3>
-  <p>
-    <a href="https://github.com/wrusie">
-      <img height="180em" src="https://raw.githubusercontent.com/wrusie/wrusie/output/snake.svg" />
-    </a>
-  </p>
-
   <br/>
   
   <p><i>Profilimi ziyaret ettiğin için teşekkürler! ⭐ bırakmayı unutma.</i></p>
