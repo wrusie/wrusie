@@ -1,66 +1,99 @@
-<!-- Başlık ve Hoş Geldin Mesajı -->
-<h1 align="center">Hello 👋, I'm @wrusie!</h1>
-<h3 align="center">Content Creator & Server Developer</h3>
+<div align="center">
 
-<!-- Kısa Tanıtım -->
-<p align="center">
-  🎥 I create content on Instagram, YouTube, and TikTok.<br>
-  ⚙️ I'm trying to develop software on my own.<br>
-  💡 I love turning my imagination into code. :)
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Selam!+Ben+wrusie.;Proje+geliştirmeyi+seviyorum.;Minecraft+sistemleri+geliştiriyorum." alt="Typing SVG" />
 
-<!-- Sosyal Medya & İçerik Platformları -->
-<h2 align="center">📱 My Media Platforms</h2>
-<p align="center">
-  <a href="https://instagram.com/wrusie_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@wrusie" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@wrusie" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
+  <p>
+    <p>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=[wrusie]&labelColor=black&color=5865F2" alt="Discord" />
+    </p>
+  </p>
 
-<!-- Sunucu Geliştirme Yetenekleri -->
-<h2 align="center">🛠️ Development</h2>
-<p align="center">
-  <a href="https://dev.java/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  </a>
-  <a href="https://gradle.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  </a>
-  <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  </a>
-</p>
+  <hr/>
 
-<!-- GitHub İstatistikleri -->
-<h2 align="center">📊 GitHub Activity</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wrusie&show_icons=true&theme=radical&count_private=true" />
-</p>
+  <h3>🚀 Hakkımda</h3>
+  <p>
+     Minecraft sunucularıyla, projeleriyle uğraşmayı severim. Kendi çapımda basit ve yeterli düzeyde eklenti yazıyorum.
+  </p>
+
+  <h3>🚀 Projelerim & Geliştirmelerim</h3>
 
 <p align="center">
-  <!-- GitHub Contribution Graph (SVG with animation) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wrusie&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%" />
+  <img src="https://img.shields.io/badge/STM Project-Yönetici-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/wrus.net-Yönetici & Geliştirici-blue?style=flat-square"/>
 </p>
 
+<br>
 
-<!-- İletişim -->
-<h2 align="center">📬 Get in Touch</h2>
-<p align="center">
-  <a href="contact@wrus.net">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Proje Adı</th>
+      <th width="50%">Açıklama</th>
+      <th width="20%">Altyapı</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>wCore</td>
+      <td>Bünyesinde temel sunucu eklenti özelliklerini barındıran Essentials alternatifi bir eklentidir.</td>
+      <td>Java</td>
+    </tr>
+    <tr>
+      <td>wHit</td>
+      <td>Kritik kombosu için streak ve ses özelliği içerek "gelişmiş" bir Practice çekirdeğidir.</td>
+      <td>Kotlin</td>
+    </tr>
+    <tr>
+      <td>wGuard</td>
+      <td>Spawn ve world koruması için özellikler barındıran bir eklentidir.</td>
+      <td>Java</td>
+    </tr>
+    <tr>
+      <td>wTimeSet</td>
+      <td>Oyun saati oylama özelliği içeren bir eklentidir.</td>
+      <td>Java</td>
+    </tr>
+    <tr>
+      <td>wGameMenu</td>
+      <td>Bahisli Taş kağıt makas, Yazı tura oyun modlarını içeren eğlence odaklı bir eklentidir.</td>
+      <td>Java</td>
+    </tr>
+    <tr>
+      <td>wLobby</td>
+      <td>Lobi sunucuları için optimize edilmiş bir altyapıdır.</td>
+      <td>Java</td>
+    </tr>
+    <tr>
+      <td>wAdminAuth</td>
+      <td>Operatörlerin sunucu girişlerine ek bir giriş koruması eklenmesine yarayan bir güvenlik eklentisidir.</td>
+      <td>Java</td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- Footer Alıntısı -->
-<p align="center">
-  <i>“A constantly growing and evolving individual.”</i>
-</p>
+  <br/>
+
+  <h3>🛠️ Yetenekler & Araçlar</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,kotlin,lua,js,html,css,git,vscode,idea&perline=9" />
+    </a>
+  </p>
+
+  <br/>
+
+  <h3>📊 GitHub İstatistiklerim</h3>
+  <p>
+    <a href="https://github.com/wrusie">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wrusie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/wrusie">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrusie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    </a>
+  </p>
+
+  <br/>
+  
+  <p><i>Profilimi ziyaret ettiğin için teşekkürler! ⭐ bırakmayı unutma.</i></p>
+
+</div>
