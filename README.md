@@ -85,10 +85,7 @@
   <h3>📊 GitHub İstatistiklerim</h3>
   <p>
     <a href="https://github.com/wrusie">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wrusie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    </a>
-    <a href="https://github.com/wrusie">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrusie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+      <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=wrusie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117](https://raw.githubusercontent.com/amownyy/amownyy/output/snake.svg)" />
     </a>
   </p>
 
