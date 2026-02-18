@@ -39,28 +39,8 @@
       <td>Java</td>
     </tr>
     <tr>
-      <td>wHit</td>
-      <td>Kritik kombosu için streak ve ses özelliği içerek "gelişmiş" bir Practice çekirdeğidir.</td>
-      <td>Kotlin</td>
-    </tr>
-    <tr>
-      <td>wGuard</td>
-      <td>Spawn ve world koruması için özellikler barındıran bir eklentidir.</td>
-      <td>Java</td>
-    </tr>
-    <tr>
-      <td>wTimeSet</td>
-      <td>Oyun saati oylama özelliği içeren bir eklentidir.</td>
-      <td>Java</td>
-    </tr>
-    <tr>
       <td>wGameMenu</td>
       <td>Bahisli Taş kağıt makas, Yazı tura oyun modlarını içeren eğlence odaklı bir eklentidir.</td>
-      <td>Java</td>
-    </tr>
-    <tr>
-      <td>wLobby</td>
-      <td>Lobi sunucuları için optimize edilmiş bir altyapıdır.</td>
       <td>Java</td>
     </tr>
     <tr>
@@ -72,13 +52,6 @@
 </table>
 
   <br/>
-
-  <h3>🛠️ Yetenekler & Araçlar</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,kotlin,lua,js,html,css,git,vscode,idea&perline=9" />
-    </a>
-  </p>
 
   <br/>
 
