@@ -34,11 +34,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>wCore</td>
-      <td>Bünyesinde temel sunucu eklenti özelliklerini barındıran Essentials alternatifi bir eklentidir.</td>
-      <td>Java</td>
-    </tr>
-    <tr>
       <td>wGameMenu</td>
       <td>Bahisli Taş kağıt makas, Yazı tura oyun modlarını içeren eğlence odaklı bir eklentidir.</td>
       <td>Java</td>
