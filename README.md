@@ -12,7 +12,7 @@
 
   <h3>🚀 Hakkımda</h3>
   <p>
-     Minecraft sunucularıyla, projeleriyle uğraşmayı severim. Kendi çapımda basit ve yeterli düzeyde eklenti yazıyorum.
+     Minecraft sunucularıyla, projeleriyle uğraşmayı severim. Kendi çapımda basit ve yeterli düzeyde sunucu yapıyorum.
   </p>
 
   <h3>🚀 Projelerim & Geliştirmelerim</h3>
@@ -23,28 +23,6 @@
 </p>
 
 <br>
-
-<table>
-  <thead>
-    <tr>
-      <th width="30%">Proje Adı</th>
-      <th width="50%">Açıklama</th>
-      <th width="20%">Altyapı</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>wGameMenu</td>
-      <td>Bahisli Taş kağıt makas, Yazı tura oyun modlarını içeren eğlence odaklı bir eklentidir.</td>
-      <td>Java</td>
-    </tr>
-    <tr>
-      <td>wAdminAuth</td>
-      <td>Operatörlerin sunucu girişlerine ek bir giriş koruması eklenmesine yarayan bir güvenlik eklentisidir.</td>
-      <td>Java</td>
-    </tr>
-  </tbody>
-</table>
 
   <br/>
 
