@@ -18,8 +18,8 @@
   <h3>🚀 Projects & Developments</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STM Project-Admin-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/wrus.net-Admin & Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STM Studios-Founder-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/wrus.net-Founder & Developer-blue?style=flat-square"/>
 </p>
 
 <br>
